@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form{
+    background-color:rgb(240, 248, 255,0.8);
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+
+}
+
+body{
+    background-image: url(hello.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.button{
+    margin-top: 20px;
+}
+
+.contenu{
+    padding: 30px ;
+    padding-bottom: 70px;
+}
+
+form input{
+    padding: 3px ;
+    width: 100%;
+}
+form h4{
+    padding: 5px;
+}
+
+/*button{
+    background-color:aqua;
+}*/
+
+h1{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.full {
+    display: flex;
+
+}
+
+.full input{
+    height: 10px;
+}
+.blan{
+    width: 90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
