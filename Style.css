@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+*{
+    margin: 6px;
+    padding: 0;
+    font-family: 'Julee', cursive;
+}
+body{
+    background-image: url(image/bg2.gif) ;
+    background-size: 20%;
+    background-repeat: repeat;
+}
+.allPage{
+    width: fit-content;
+    background-color: rgba(21, 167, 252, 0.766);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 90px;
+    margin-bottom: 40px;
+}
+.form{
+    padding: 30px;
+    
+}
+
+input,textarea{
+    height: 50px;
+    width: 300px;
+    border-radius: 23px;
+    padding:0 20px;
+    font-size: 19px;
+    color: #000000;
+    margin-right: auto ;
+    margin-left: auto;
+    background: rgb(255, 255, 255);
+    border: 1px solid #ffffff;
+}
+input::placeholder{
+    color: rgb(17, 17, 17);
+    opacity: 0.6;
+}
+
+textarea{
+    resize: vertical;
+    height: auto;
+}
+#message{
+    color: white;
+}
+.btn{
+    width: 160px;
+    margin: 6px;
+    justify-content: space-between;
+    background-color: rgb(62, 187, 0);
+    border: 0;
+    color: #ffffff;
+ }
+
+.form{
+    width: 344px;
+    margin: auto;
+}
+.Titre{
+    text-align: center;
+    font-size: 45px;
+    color: white;
+}
